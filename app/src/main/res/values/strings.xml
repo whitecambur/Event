@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Event</string>
+    <string name="user_name">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="email">邮箱</string>
+    <string name="register">注册</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">帮你选择</string>
+    <string name="title_notifications">我的</string>
+    <string name="attn_button">已参与</string>
+    <string name="noattn_button">参与</string>
+    <string name="waitattn_button">已待参与</string>
+    <string name="nowaitattn_button">待参与</string>
+    <string name="creat_event">创建活动</string>
+    <string name="create_title">标题</string>
+    <string name="create_status">状态</string>
+    <string name="create_venue">位置</string>
+    <string name="create_start">开始时间</string>
+    <string name="create_end">结束时间</string>
+</resources>
